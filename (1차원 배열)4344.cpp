@@ -32,7 +32,7 @@ int main(){
                 count++;
             }
         }
-        
+        //헤맨 부분 => count를 double로 바꾸기
         percentage = (double)count / n * 100;
         
         cout.precision(3);
